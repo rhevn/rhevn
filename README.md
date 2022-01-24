@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @rhevn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+print("1. Perkalian")
+print("2. Pembagian")
+print("3. Pertambahan")
+print("4. Pengurangan")
 
-<!---
-rhevn/rhevn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pil = int(input("Pilih Salah Satu : "))
+
+x = int(input("bilangan satu : ")
+y = int(input("bilangan dua  : ")
+
+if pil == 1:
+  hasil = x*y
+  elif == 2:
+  hasil = x/y
+  elif == 3:
+  hasil = x+y
+  elif == 4:
+  hasil = x-y
+  
+print("hasil : %d" %hasil)
